@@ -1,4 +1,5 @@
-# ZSH Tab Title
+# ZSH Tab Title (🍴 Fork)
+### Remove prefix (user@machine) and truncate directory to only include current directory and parent directory.
 
 [![GitHub version](https://badge.fury.io/gh/trystan2k%2Fzsh-tab-title.svg)](https://badge.fury.io/gh/trystan2k%2Fzsh-tab-title)
 
